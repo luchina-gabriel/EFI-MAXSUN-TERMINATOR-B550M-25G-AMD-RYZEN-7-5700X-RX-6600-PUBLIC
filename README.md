@@ -1,5 +1,7 @@
 # Hackintosh, Maxsun Terminator B550M 2.5G, AMD Ryzen 7 5700X, AMD Radeon RX 6600
 
+![Overview](https://github.com/user-attachments/assets/2e3b357f-48ca-4792-bc37-4751e269fca7)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.2)
@@ -33,3 +35,6 @@
 
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
+
+## Geekbench/Performance
+![Geekbench Resume](https://github.com/user-attachments/assets/ff4c791b-0293-4951-a9aa-9e3fedd53d1a)
